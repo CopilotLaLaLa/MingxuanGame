@@ -1,4 +1,4 @@
-👋 Hi, I’m @MingxuanGame
+👋 Hi, I’m [@MingxuanGame](https://github.com/MingxuanGame)
 
 Welcome to my pages
 
