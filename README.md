@@ -8,6 +8,7 @@
 Welcome to my page
 
 My website: http://mingxuangame.top
+<br><br>
 
 
 
@@ -15,15 +16,15 @@ My website: http://mingxuangame.top
 
 * [MC_Crafting](https://github.com/MingxuanGame/MC_Crafting)
 
+<br><br>
+
 
 
 📟contact information: mingxuangame@outlook.com
 
-
+<br><br>
 
 
 
 Mingxuangame was last updated on 2021 / 5 / 4
-
-
 
