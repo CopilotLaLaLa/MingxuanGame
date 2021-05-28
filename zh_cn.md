@@ -1,22 +1,22 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MingxuanGame/MingxuanGame)
 [![QQ: 1060148379](https://img.shields.io/badge/QQ-1060148379-blue)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1060148379&website=www.oicqzone.com)
 
-[中文](zh_cn.md)
+[English](README.md)
 
 ------
 
 
 
-👏Hi, I am MingxuanGame
+👏嗨，我是MingxuanGame
 
-Welcome to my page
+欢迎来到我的个人页面
 
-My website: http://mingxuangame.top
+我的网站: http://mingxuangame.top
 <br><br>
 
 
 
-🎨My main projects:
+🎨我主要的项目:
 
 * [MC_Crafting](https://github.com/MingxuanGame/MC_Crafting)
 * [GenshinImpactTools](https://github.com/MingxuanGame/GenshinImpactTools)
@@ -25,20 +25,20 @@ My website: http://mingxuangame.top
 
 
 
-🎮My favorite games:
+🎮我喜欢的游戏:
 * [Minecraft](https://minecraft.net)
-* [Genshin Impact](https://genshin.mihoyo.com/)
+* [Genshin Impact]https://ys.mihoyo.com/)
 
 <br><br>
 
 
-💻contact information: mingxuangame@outlook.com
+💻联系方式: mingxuangame@outlook.com
 
 <br><br>
 
 
 
-Mingxuangame was last updated on 2021 / 5 / 29
+Mingxuangame 最后更新于 2021 / 5 / 29
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=MingxuanGame&show_icons=true&count_private=true" />
