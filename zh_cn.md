@@ -27,7 +27,7 @@
 
 🎮我喜欢的游戏:
 * [Minecraft](https://minecraft.net)
-* [Genshin Impact](https://ys.mihoyo.com/)
+* [原神](https://ys.mihoyo.com/)
 
 <br><br>
 
