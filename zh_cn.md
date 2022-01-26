@@ -18,8 +18,7 @@
 
 🎨我主要的项目:
 
-* [MC_Crafting](https://github.com/MingxuanGame/MC_Crafting)
-* [GenshinImpactTools](https://github.com/MingxuanGame/GenshinImpactTools)
+* 没有
 
 <br><br>
 
@@ -38,7 +37,7 @@
 
 
 
-Mingxuangame 最后更新于 2021 / 5 / 29
+MingxuanGame 最后更新于 2022 / 1 / 26
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=MingxuanGame&show_icons=true&count_private=true" />

@@ -18,8 +18,7 @@ My website: http://mingxuangame.top
 
 🎨My main projects:
 
-* [MC_Crafting](https://github.com/MingxuanGame/MC_Crafting)
-* [GenshinImpactTools](https://github.com/MingxuanGame/GenshinImpactTools)
+* Nothing
 
 <br><br>
 
@@ -38,7 +37,7 @@ My website: http://mingxuangame.top
 
 
 
-Mingxuangame was last updated on 2021 / 5 / 29
+MingxuanGame was last updated on 2022 / 1 / 26
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=MingxuanGame&show_icons=true&count_private=true" />
