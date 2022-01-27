@@ -37,8 +37,7 @@
 
 
 
-MingxuanGame 最后更新于 2022 / 1 / 26
+MingxuanGame 最后更新于 2022 / 1 / 27
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=MingxuanGame&show_icons=true&count_private=true" />
-</a>
+![MingxuanGame's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingxuanGame)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingxuanGame)
