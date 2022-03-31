@@ -6,38 +6,28 @@
 ------
 
 
-
 👏Hi, I am MingxuanGame
 
 Welcome to my page
 
 My website: http://mingxuangame.top
-<br><br>
 
 
+I'm doing(or assisting) now
 
-🎨My main projects:
-
-* Nothing
-
-<br><br>
-
+* [GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID)
+* [GI_bot](https://github.com/Genshin-Bots/GI_bot) (It's not public now.)
 
 
 🎮My favorite games:
 * [Minecraft](https://minecraft.net)
-* [Genshin Impact](https://genshin.mihoyo.com/)
-
-<br><br>
+* [Genshin Impact](https://genshin.hoyoverse.com/)
 
 
 💻contact information: mingxuangame@outlook.com
 
-<br><br>
 
-
-
-MingxuanGame was last updated on 2022 / 1 / 27
+MingxuanGame was last updated on 2022 / 3 / 31
 
 ![MingxuanGame's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingxuanGame)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingxuanGame)
