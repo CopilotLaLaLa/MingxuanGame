@@ -6,38 +6,28 @@
 ------
 
 
+👏Hi, I am MingxuanGame
 
-👏嗨，我是MingxuanGame
+Welcome to my page
 
-欢迎来到我的个人页面
-
-我的网站: http://mingxuangame.top
-<br><br>
+My website: http://mingxuangame.top
 
 
+📃我正在参与（或协作）的项目
 
-🎨我主要的项目:
-
-* 没有
-
-<br><br>
-
+* [GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID)
+* [GI_bot](https://github.com/Genshin-Bots/GI_bot) (现在未公开)
 
 
 🎮我喜欢的游戏:
 * [Minecraft](https://minecraft.net)
 * [原神](https://ys.mihoyo.com/)
 
-<br><br>
-
 
 💻联系方式: mingxuangame@outlook.com
 
-<br><br>
 
-
-
-MingxuanGame 最后更新于 2022 / 1 / 27
+MingxuanGame 最后更新于 2022 / 3 / 31
 
 ![MingxuanGame's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingxuanGame)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingxuanGame)
