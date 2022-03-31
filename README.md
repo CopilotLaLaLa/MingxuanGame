@@ -13,7 +13,7 @@ Welcome to my page
 My website: http://mingxuangame.top
 
 
-I'm doing(or assisting) now
+📃I'm doing(or assisting) now
 
 * [GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID)
 * [GI_bot](https://github.com/Genshin-Bots/GI_bot) (It's not public now.)
