@@ -9,13 +9,13 @@
 ![](https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=fff)
 
-🔨I'm use these tools to code
+🔨I use these tools to code
 
 ![](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=fff)
 ![](https://img.shields.io/badge/-Pycharm-green?style=flat-square&logo=pycharm&logoColor=fff)
 ![](https://img.shields.io/badge/-Goland-blue?style=flat-square&logo=goland&logoColor=fff)
 
-💻I'm use these OS
+💻I use these OS
 
 ![](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=fff)
