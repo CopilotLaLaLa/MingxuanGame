@@ -3,9 +3,10 @@
 
 📚I'm a student.
 
-✏I'm learning these now
+✏I'm studying these now
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
+![C](https://img.shields.io/badge/-C-585858?style=flat-square&logo=C&logoColor=fff)
 ![Golang](https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=Go&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=fff)
 
