@@ -1,6 +1,8 @@
 
 ## 👏There
 
+📰My blob: https://blob.mxgame.top or https://mingxuangame.github.io
+
 📚I'm a student.
 
 ✏I'm studying these now
