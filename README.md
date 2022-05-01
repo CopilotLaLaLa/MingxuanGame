@@ -1,7 +1,7 @@
 
 ## 👏There
 
-📰My blob: https://blob.mxgame.top or https://mingxuangame.github.io
+📰My blob: https://blog.mxgame.top or https://mingxuangame.github.io
 
 📚I'm a student.
 
