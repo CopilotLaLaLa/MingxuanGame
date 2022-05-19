@@ -30,3 +30,9 @@
 * [![QQ](https://img.shields.io/badge/QQ-1060148379-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1060148379&website=www.oicqzone.com)
 
 ![MingxuanGame's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingxuanGame)
+
+---
+
+开眼了属于是
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HibiKier/zhenxun_bot,nonebot/nonebot2&type=Date)](https://star-history.com/#HibiKier/zhenxun_bot&nonebot/nonebot2&Date)
