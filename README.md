@@ -21,7 +21,7 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-green?style=flat-square&logo=pycharm&logoColor=fff)
 ![Goland](https://img.shields.io/badge/-Goland-purple?style=flat-square&logo=goland&logoColor=fff)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingxuanGame&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingxuanGame"/>
 
  ~~These are other tools~~
 
