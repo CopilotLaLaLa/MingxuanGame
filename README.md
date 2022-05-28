@@ -33,3 +33,7 @@
 
 * [![Email](https://img.shields.io/badge/Email-MingxuanGame@outlook.com-1?style=social&logoColor=fff)](mailto:MingxuanGame@outlook.com)
 * [![QQ](https://img.shields.io/badge/QQ-1060148379-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1060148379&website=www.oicqzone.com)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
