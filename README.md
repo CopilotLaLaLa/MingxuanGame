@@ -35,5 +35,74 @@
 * [![QQ](https://img.shields.io/badge/QQ-1060148379-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1060148379&website=www.oicqzone.com)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 139 Contributions in the Year 2022
+ > 
+> 📦 4.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
+🌆 Daytime    32 commits     ██████░░░░░░░░░░░░░░░░░░░   25.2% 
+🌃 Evening    62 commits     ████████████░░░░░░░░░░░░░   48.82% 
+🌙 Night      18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
+Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
+Wednesday    32 commits     ██████░░░░░░░░░░░░░░░░░░░   25.2% 
+Thursday     26 commits     █████░░░░░░░░░░░░░░░░░░░░   20.47% 
+Friday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
+Saturday     22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+Sunday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ████████████████████░░░░░   80.0% 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+
+ Last Updated on 28/05/2022 05:02:42 UTC
 <!--END_SECTION:waka-->
