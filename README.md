@@ -3,7 +3,8 @@
 
 📰My blog: https://blog.mxgame.top or https://mingxuangame.github.io
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MingxuanGame" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingxuanGame"/>
+
 
 📚I'm a student.
 
@@ -21,12 +22,12 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-green?style=flat-square&logo=pycharm&logoColor=fff)
 ![Goland](https://img.shields.io/badge/-Goland-purple?style=flat-square&logo=goland&logoColor=fff)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingxuanGame"/>
-
  ~~These are other tools~~
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=fff)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=fff)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MingxuanGame" />
 
 
 📫Contact me
